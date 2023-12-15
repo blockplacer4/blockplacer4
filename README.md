@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **A Hobby AI**
 
-- 🌱 I’m currently learning **Frameworks, Frontend**
-
-- 👯 I’m looking to collaborate on **Small Projects**
+- 🌱 I’m currently learning **Transformers, Python Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blockplacer4](https://github.com/blockplacer4)
 
