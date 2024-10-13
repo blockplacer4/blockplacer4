@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janosch aka blockyy</h1>
 <h3 align="center">Ein leidenschaftlicher Programmier ;D</h3>
 
-- 🔭 I’m currently working on **A Hobby AI**
+- 🔭 I’m currently working on **The First Lego League Contest**
 
 - 🌱 I’m currently learning **Java & JS **
 
