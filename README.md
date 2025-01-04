@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Janosch, and I'm a Python/Java backend programmer from Germany. ^^</h1>
+<h1 align="left">Hi 👋! My name is Janosch, and I'm a Python & Java backend programmer from Germany. ^^</h1>
 
 ###
 
